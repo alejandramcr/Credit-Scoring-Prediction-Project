@@ -1,4 +1,6 @@
 CREDIT SCORING PREDICTION PROJECT
+![Uploading portada.jpg…]()
+
 
 PROBLEMA DE NEGOCIO
 

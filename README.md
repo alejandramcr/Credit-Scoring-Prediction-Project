@@ -1,5 +1,5 @@
 CREDIT SCORING PREDICTION PROJECT
-![Uploading portada.jpg…]()
+[![Uploading portada.jpg…]()](https://github.com/alejandramcr/Credit-Scoring-Prediction-Project/blob/main/portada.jpg)
 
 
 PROBLEMA DE NEGOCIO

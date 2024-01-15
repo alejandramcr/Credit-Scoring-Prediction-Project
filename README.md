@@ -1,6 +1,6 @@
-CREDIT SCORING PREDICTION PROJECT
+# CREDIT SCORING PREDICTION PROJECT
 
-<span>![</span><span>Portada</span><span>]</span><span>(</span><span>[https://raw.githubusercontent.com/parzibyte/WaterPy/master/assets/ImagenV1.png](https://github.com/alejandramcr/Credit-Scoring-Prediction-Project/blob/main/portada.jp)</span><span>)</span>
+![](https://github.com/alejandramcr/Credit-Scoring-Prediction-Project/blob/main/portada.jpg)
 
 PROBLEMA DE NEGOCIO
 

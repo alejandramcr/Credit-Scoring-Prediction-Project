@@ -31,4 +31,4 @@ RESULTADOS Y CONCLUSIONES
 4. Reducción de Errores y Pérdidas: La implementación, llevará a una reducción significativa de errores en la evaluación del riesgo crediticio, lo que se traduce directamente en una disminución de pérdidas para la institución financiera.
    
 
-NOTA: proyecto desarrollado en el Bootcamp del profe Alejo 3era edición.
+NOTA: proyecto desarrollado en el Bootcamp de Ciencia de Datos.

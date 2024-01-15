@@ -1,4 +1,4 @@
-#Credit-Scoring-Prediction-Project
+##Credit-Scoring-Prediction-Project
 
 PROBLEMA DE NEGOCIO
 La importancia de mitigar el riesgo crediticio ha motivado a una institución financiera alemana a buscar enfoques innovadores. En este sentido se desarrolla un modelo de machine learning preciso y confiable para evaluar con mayor exactitud la probabilidad de incumplimiento crediticio de los clientes de la institución.

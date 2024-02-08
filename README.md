@@ -3,7 +3,7 @@
 ![](https://github.com/alejandramcr/Credit-Scoring-Prediction-Project/blob/main/portada.jpg)
 
 PROBLEMA DE NEGOCIO
-![Prueba](https://github.com/alejandramcr/Credit-Scoring-Prediction-Project/blob/main/imagenes/image.png "Prueba")
+
 
 La importancia de mitigar el riesgo crediticio ha motivado a una institución financiera alemana a buscar enfoques innovadores. En este sentido se desarrolla un modelo de machine learning preciso y confiable para evaluar con mayor exactitud la probabilidad de incumplimiento crediticio de los clientes de la institución.
 Se adjunta el archivo .csv que contiene la base de datos inicial y el diccionario de datos que contiene el detalle de cada una de las variables involucradas. 
